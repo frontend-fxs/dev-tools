@@ -1,0 +1,9 @@
+{
+  "name": "dev-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python serve.py",
+    "test": "node --test"
+  }
+}
